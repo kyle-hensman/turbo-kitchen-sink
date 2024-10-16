@@ -4,7 +4,7 @@
     "lib": ["dom", "ES2015"],
     "sourceMap": true,
     "types": ["jest", "node"],
-    "jsx": "react-jsx",
+    "jsx": "react-jsx"
   },
   "include": ["."],
   "exclude": ["dist", "build", "node_modules"]
