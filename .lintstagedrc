@@ -1,7 +1,6 @@
 {
   "*.{js,jsx,ts,tsx}": [
     "pnpm run format",
-    "pnpm run lint",
     "eslint --fix"
   ],
   "*.json": ["pnpm run format"]
