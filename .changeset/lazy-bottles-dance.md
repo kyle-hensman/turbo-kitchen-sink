@@ -1,5 +1,4 @@
 ---
-"admin": patch
 "api": patch
 "storefront": patch
 "@repo/eslint-config": patch
@@ -10,3 +9,4 @@
 ---
 
 add docker files for apps
+removal of 'admin' template app
